@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShalinAJ
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pythom
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 
 <!---
